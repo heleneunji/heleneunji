@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm student learning Programming
 
 <!--
 **heleneunji/heleneunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Love beach🏖 and traveling✈
+Hoping to grow!
